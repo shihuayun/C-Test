@@ -16,9 +16,11 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        //private void button1_Click(object sender, EventArgs e)
-        //{
-        //    MessageBox.Show("aa");
-        //}
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("aa");
+        }
+
+        public static int aaa = 0;
     }
 }
