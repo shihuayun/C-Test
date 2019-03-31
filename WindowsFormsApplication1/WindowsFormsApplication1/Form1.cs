@@ -20,7 +20,5 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("aa");
         }
-
-        public static int aaa = 0;
     }
 }
